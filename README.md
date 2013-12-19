@@ -1,7 +1,7 @@
 mongo-nodejs-express
 ====================
 
-An Example sample template for mongo, nodejs, and express RESTful Web api.
+An Example sample template that uses mongo, nodejs, and express to create RESTful Web api.
 
     api routes
     ----------
