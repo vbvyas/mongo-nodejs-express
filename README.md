@@ -1,7 +1,7 @@
 mongo-nodejs-express
 ====================
 
-An Example sample template that uses mongo, nodejs, and express to create RESTful Web api.
+A sample template that uses mongo, nodejs, and express to create RESTful Web api.
 
     api routes
     ----------
@@ -12,7 +12,10 @@ An Example sample template that uses mongo, nodejs, and express to create RESTfu
     /api/examples/:id  PUT          Update the example with id of :id
     /api/examples/:id  DELETE       Delete the example with id of :id
 
+To run:
 
+    npm install
+    node app.js
 
 Example to do a post:
 
